@@ -38,7 +38,7 @@ def solution_01(numbers):
     return int(answer)
 
 
-# 딕셔너리 사용
+# 딕셔너리 활용
 def solution_02(numbers):
     answer = ""
     temp_dict = {
