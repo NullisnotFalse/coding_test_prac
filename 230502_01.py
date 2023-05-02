@@ -62,7 +62,7 @@ def solution_02(numbers):
     return int(answer)
 
 
-# replace 활용
+# .replace() 메소드 활용
 def solution_03(numbers):
     str_list = [
         "one",
