@@ -1,6 +1,7 @@
 # https://school.programmers.co.kr/learn/courses/30/lessons/120894
 
 
+# 슬라이싱 활용
 def solution_01(numbers):
     answer = ""
     while numbers != "":
@@ -34,10 +35,10 @@ def solution_01(numbers):
         elif numbers[:3] == "zer":
             answer += "0"
             numbers = numbers[4:]
-    answer = int(answer)
-    return answer
+    return int(answer)
 
 
+# 딕셔너리 사용
 def solution_02(numbers):
     answer = ""
     temp_dict = {
@@ -52,9 +53,30 @@ def solution_02(numbers):
         "nine": "9",
         "zero": "0",
     }
+    num = ""
+    for i in numbers:
+        num += i
+        if num in temp_dict:
+            answer += temp_dict[num]
+            num = ""
+    return int(answer)
 
 
-# 나중에 완성
-
-
-# replace 쓰는 방법도 써보기
+# replace 활용
+def solution_03(numbers):
+    str_list = [
+        "one",
+        "two",
+        "three",
+        "four",
+        "five",
+        "six",
+        "seven",
+        "eight",
+        "nine",
+        "zero",
+    ]
+    int_list = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"]
+    for i in range(len(str_list)):
+        numbers = numbers.replace(str_list[i], int_list[i])
+    return int(numbers)
