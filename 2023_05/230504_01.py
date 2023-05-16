@@ -30,10 +30,8 @@ def solution(numbers, hand):
         else:
             left_dis = 0
             right_dis = 0
-            left_dis += abs(current_left[0] - i[0][0])
-            left_dis += abs(current_left[1] - i[0][1])
-            right_dis += abs(current_right[0] - i[0][0])
-            right_dis += abs(current_right[1] - i[0][1])
+            left_dis += abs(current_left[0] - i[0][0]) + abs(current_left[1] - i[0][1])
+            right_dis += abs(current_right[0] - i[0][0]) + abs(current_right[1] - i[0][1])
             if left_dis < right_dis:
                 answer += "L"
                 current_left = i[0]
