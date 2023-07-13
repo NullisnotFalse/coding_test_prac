@@ -2,7 +2,7 @@
 ## 2023_03
 230324 - 공원 산책 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/172928)  
 ## 2023_04
-230404 - [1차] 프렌즈4블록 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17679)  
+[230404](2023_04/230404.py) - [1차] 프렌즈4블록 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17679)  
 230406 - 배열 두배 만들기 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120809)  
 230407 - 옹알이 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120956)  
 230408 - 평행 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120875)  
