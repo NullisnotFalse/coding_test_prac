@@ -34,6 +34,7 @@
 [230503_01](2023_05/230503_01.py) - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)  
 [230504_01](2023_05/230504_01.py) - [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)  
 [230516_01](2023_05/230516_01.py) - [최댓값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120847)  
+[230518_01](2023_05/230518_01.py) - [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)  
 [230530_01](2023_05/230530_01.py) - [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)  
 [230531_01](2023_05/230531_01.py) - [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)  
 </details>
