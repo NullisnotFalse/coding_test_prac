@@ -1,7 +1,15 @@
 # coding_test_prac
 ## 2023_03
+<details>
+<summary>목록</summary>
+
 [230324](2023_03/230324.py) - 공원 산책 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/172928)  
+</details>
+
 ## 2023_04
+<details>
+<summary>목록</summary>
+  
 [230404](2023_04/230404.py) - [1차] 프렌즈4블록 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17679)  
 [230406](2023_04/230406.py) - 배열 두배 만들기 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120809)  
 [230407](2023_04/230407.py) - 옹알이 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120956)  
@@ -13,7 +21,12 @@
 [230426](2023_04/230426.py) - [3차] 파일명 정렬 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17686)  
 [230427](2023_04/230427.py) - 추억 점수 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/176963)  
 [230428](2023_04/230428.py) - [1차] 비밀지도 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17681)  
+</details>
+
 ## 2023_05
+<details>
+<summary>목록</summary>
+  
 [230501_01](2023_05/230501_01.py) - n의 배수 고르기 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120905)  
 [230501_02](2023_05/230501_02.py) - 가위 바위 보 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120839)  
 [230501_03](2023_05/230501_03.py) - 점의 위치 구하기 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120841)  
@@ -21,3 +34,12 @@
 [230503_01](2023_05/230503_01.py) - 성격 유형 검사하기 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/118666)  
 [230504_01](2023_05/230504_01.py) - [카카오 인턴] 키패드 누르기 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/67256)  
 [230516_01](2023_05/230516_01.py) - 최댓값 만들기 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120847)
+</details>
+
+## 2023_07
+<details>
+<summary>목록</summary>
+
+
+</details>
+
