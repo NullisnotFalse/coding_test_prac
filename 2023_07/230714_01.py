@@ -31,7 +31,7 @@ import re
 def solution_02(my_string):
     answer = []
     for i in my_string:
-        if re.match(r"^\d+$", i):
+        if re.match(r"^\d$", i):
             answer.append(int(i))
     answer.sort()
     return answer
