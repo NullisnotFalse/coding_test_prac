@@ -28,7 +28,7 @@ def solution_02(my_string):
 import re
 
 
-def solution_02(my_string):
+def solution_03(my_string):
     answer = []
     for i in my_string:
         if re.match(r"^\d$", i):
