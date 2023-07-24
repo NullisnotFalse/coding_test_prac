@@ -22,7 +22,7 @@ def solution_02_fail(my_string):
 from collections import OrderedDict
 
 
-def solution(my_string):
+def solution_03(my_string):
     temp_dict = OrderedDict.fromkeys(my_string)
     answer = "".join(temp_dict)
     return answer
