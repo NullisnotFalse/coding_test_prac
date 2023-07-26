@@ -43,6 +43,7 @@
 <details>
 <summary>목록</summary>
 
-
+[230714_01](2023_07/230714_01.py) - [문자열 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/120850)  
+[230724_01](2023_07/230724_01.py) - [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)  
 </details>
 
