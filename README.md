@@ -48,3 +48,9 @@
 [230726_01](2023_07/230726_01.py) - [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842)  
 </details>
 
+## 2023_08
+<details>
+<summary>목록</summary>
+
+[230802_01](2023_08/230802_01.py) - [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)  
+</details>
