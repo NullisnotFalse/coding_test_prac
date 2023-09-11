@@ -24,6 +24,7 @@ M = 21
 card_list = [5, 6, 7, 8, 9]
 
 
+# 튜플로 이루어진 리스트를 가지고 각 튜플 원소들의 합으로 이루어진 리스트를 return하는 함수
 def sum_selected_cards(selected_card_list):
     sum_cards_list = []
     for selected_cards in selected_card_list:
@@ -32,6 +33,7 @@ def sum_selected_cards(selected_card_list):
     return sum_cards_list
 
 
+# M보다 작은 최대값을 return하는 함수
 def max_check(sum_cards_list, M):
     max_check_list = []
     for element in sum_cards_list:
@@ -41,6 +43,7 @@ def max_check(sum_cards_list, M):
     return max_value
 
 
+# 실행 함수
 def solution(N, M, card_list):
     selected_card_list = list(combinations(card_list, 3))
     sum_cards_list = sum_selected_cards(selected_card_list)
