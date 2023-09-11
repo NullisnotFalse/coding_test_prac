@@ -2,7 +2,7 @@
 # https://www.acmicpc.net/problem/2798
 
 
-# 알고리즘 분류 : Brute Force
+# 알고리즘 분류 : Brute Force (완전 탐색)
 
 
 # 생각해봐야 할 것
