@@ -61,4 +61,5 @@
 <summary>목록</summary>
 
 [230907_01](2023_09/230907_01.py) - [블랙잭](https://www.acmicpc.net/problem/2798)  
+[230913_01](2023_09/230913_01.py) - [분해합](https://www.acmicpc.net/problem/2231)  
 </details>
