@@ -61,7 +61,7 @@ print(solution_1(N))
 # 풀이 2
 
 
-# create_generator(num) 함수는 재사용
+# create_generator() 함수는 재사용
 
 
 # 가장 작은 생성자를 찾는 함수
