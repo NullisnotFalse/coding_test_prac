@@ -5,13 +5,13 @@
 # 조건문
 
 
-# 풀이 1
+# 풀이_1
 
 # N = int(input())
 N = 100
 
 
-def solution(N):
+def solution_1(N):
     if 100 >= N >= 90:
         return "A"
     elif 89 >= N >= 80:
@@ -24,16 +24,16 @@ def solution(N):
         return "F"
 
 
-print(solution(N))
+print(solution_1(N))
 
 
-# 풀이 2
+# 풀이_2
 
 # M = int(input())
 M = 100
 
 
-def solution(M):
+def solution_2(M):
     if M >= 90:
         return "A"
     elif M >= 80:
@@ -46,8 +46,8 @@ def solution(M):
         return "F"
 
 
-print(solution(M))
+print(solution_2(M))
 
 
 # elif가 나열되어 있는 경우에는 위에서부터 차례대로 조건을 제외하면서 실행되므로 불필요한 범위 값을 지정할 필요가 없음
-# 풀이 1은 실행시간 44m / 풀이 2는 실행시간 40m
+# 풀이 1은 실행 시간 44m / 풀이 2는 실행 시간 40m

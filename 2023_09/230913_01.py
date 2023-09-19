@@ -14,7 +14,7 @@
 """
 
 
-# 풀이 1
+# 풀이_1
 
 # N = int(input())
 N = 216
@@ -58,7 +58,7 @@ print(solution_1(N))
 """
 
 
-# 풀이 2
+# 풀이_2
 
 
 # create_generator() 함수는 재사용
