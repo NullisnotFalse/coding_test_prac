@@ -67,4 +67,5 @@
 [230919_03](2023_09/230919_03.py) - [윤년](https://www.acmicpc.net/problem/2753)  
 [230919_04](2023_09/230919_04.py) - [사분면 고르기](https://www.acmicpc.net/problem/14681)  
 [230919_05](2023_09/230919_05.py) - [알람 시계](https://www.acmicpc.net/problem/2884)  
+[230919_06](2023_09/230919_06.py) - [오븐 시계](https://www.acmicpc.net/problem/2525)  
 </details>

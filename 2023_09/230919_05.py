@@ -7,22 +7,22 @@
 
 # 풀이_1
 
-# H,M = map(int,input().split())
-H = 10
-M = 10
+# H_1,M_1 = map(int,input().split())
+H_1 = 10
+M_1 = 10
 
 
-def solution_1(H, M):
-    if M < 45:
-        if H != 0:
-            return H - 1, 60 + (M - 45)
-        elif H == 0:
-            return 23, 60 + (M - 45)
-    elif M >= 45:
-        return H, M - 45
+def solution_1(H_1, M_1):
+    if M_1 < 45:
+        if H_1 != 0:
+            return H_1 - 1, 60 + (M_1 - 45)
+        elif H_1 == 0:
+            return 23, 60 + (M_1 - 45)
+    elif M_1 >= 45:
+        return H_1, M_1 - 45
 
 
-print(*solution_1(H, M))
+print(*solution_1(H_1, M_1))
 
 
 # 풀이_1 실행 시간 40m
