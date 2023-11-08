@@ -76,4 +76,5 @@
 
 [231107_01](2023_11/231107_01.py) - [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)  
 [231108_01](2023_11/231108_01.py) - [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895)  
+[231109_01](2023_11/231109_01.py) - [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)  
 </details>

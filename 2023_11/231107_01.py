@@ -14,7 +14,7 @@ def solution_01(my_string):
 # 풀이_02 -> 반복문, 조건문과 .isupper(), .islower(), .lower(), .upper() 사용
 
 
-def solution(my_string):
+def solution_02(my_string):
     answer = ''
     for letter in my_string:
         if letter.isupper():
