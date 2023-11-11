@@ -82,4 +82,6 @@
 [231110_02](2023_11/231110_02.py) - [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585)  
 [231111_01](2023_11/231111_01.py) - [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)  
 [231111_02](2023_11/231111_02.py) - [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885)  
+[231112_01](2023_11/231112_01.py) - [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)  
+[231112_02](2023_11/231112_02.py) - [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)  
 </details>
