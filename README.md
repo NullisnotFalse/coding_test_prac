@@ -80,4 +80,5 @@
 [231109_02](2023_11/231109_02.py) - [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904)  
 [231110_01](2023_11/231110_01.py) - [문자열 정렬하기2](https://school.programmers.co.kr/learn/courses/30/lessons/120911)  
 [231110_02](2023_11/231110_02.py) - [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585)  
+[231111_01](2023_11/231111_01.py) - [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)  
 </details>
