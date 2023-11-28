@@ -86,4 +86,5 @@
 [231112_02](2023_11/231112_02.py) - [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)  
 [231113_01](2023_11/231113_01.py) - [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)  
 [231115_01](2023_11/231115_01.py) - [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)  
+[231128_01](2023_11/231128_01.py) - [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)  
 </details>
